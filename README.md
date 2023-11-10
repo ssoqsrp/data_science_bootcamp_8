@@ -16,3 +16,6 @@ I lean a lot of stuff related to data science skills. This bootcamp has 10 sprin
 - Python programming
 - Essential Python for Data analyst
 - Dashboard
+
+
+You can find me on LinkedIn 
